@@ -1,3 +1,11 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://new.robnugen.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Thunder Rabbit"
+theme = "purehugo-tr"
+MetaDataFormat = "yaml"
+[params]
+    twitterName = "thunderrabbit"
+    githubName = "thunderrabbit"
+    description = "keep pushing the limits"
+[permalinks]
+    journal = "/journal/:year/:month/:day/:title/"
