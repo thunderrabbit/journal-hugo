@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{REQUEST_URI} ^(/images)$
+RewriteRule ^(.*)$  http://b.robnugen.com/ [R=302,L]
+RewriteCond %{REQUEST_URI} ^(/images)/(.*)$
+RewriteRule ^(.*)$  http://b.robnugen.com/%2 [R=302,L]
