@@ -7,3 +7,6 @@
 [submodule "content/samples/javascript/pushups-counter-js"]
 	path = content/samples/javascript/pushups-counter-js
 	url = git@github.com:thunderrabbit/pushups-counter-js.git
+[submodule "themes/purehugo-tr"]
+	path = themes/purehugo-tr
+	url = git@github.com:thunderrabbit/purehugo-tr.git
