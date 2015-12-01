@@ -1,4 +1,4 @@
-baseurl = "http://new.robnugen.com/"
+baseurl = "https://new.robnugen.com/"
 languageCode = "en-us"
 title = "Thunder Rabbit"
 theme = "purehugo-tr"
