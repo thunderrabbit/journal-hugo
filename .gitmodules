@@ -21,4 +21,4 @@
 	url = git@github.com:thunderrabbit/my-ongoing-burton-wheelie-flyer-review.git
 [submodule "content/samples/javascript/days-old"]
 	path = content/samples/javascript/days-old
-	url = git@github.com:thunderrabbit/javascript-days-old-counter.git
+	url = git@bitbucket.org:thunderrabbit/javascript-days-old-counter.git
