@@ -3,9 +3,13 @@ languageCode = "en-us"
 title = "Thunder Rabbit"
 theme = "purehugo-tr"
 MetaDataFormat = "yaml"
+rssLimit = 70
 [params]
     twitterName = "thunderrabbit"
     githubName = "thunderrabbit"
     description = "keep pushing the limits"
+    hideShareOptions = true
 [permalinks]
     journal = "/journal/:year/:month/:day/:title/"
+cleandestinationdir= true
+disablerss= true
