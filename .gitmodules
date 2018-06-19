@@ -22,3 +22,6 @@
 [submodule "content/samples/javascript/days-old"]
 	path = content/samples/javascript/days-old
 	url = git@bitbucket.org:thunderrabbit/javascript-days-old-counter.git
+[submodule "content/toots/submit-to-ios-app-store"]
+	path = content/toots/submit-to-ios-app-store
+	url = git@bitbucket.org:thunderrabbit/submit-to-ios-app-store.git
