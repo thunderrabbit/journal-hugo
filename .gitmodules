@@ -25,3 +25,6 @@
 [submodule "content/toots/submit-to-ios-app-store"]
 	path = content/toots/submit-to-ios-app-store
 	url = git@bitbucket.org:thunderrabbit/submit-to-ios-app-store.git
+[submodule "content/geocaching"]
+	path = content/geocaching
+	url = git@bitbucket.org:thunderrabbit/geocaching.git
