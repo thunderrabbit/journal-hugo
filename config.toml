@@ -4,6 +4,7 @@ title = "Thunder Rabbit"
 theme = "purehugo-tr"
 MetaDataFormat = "yaml"
 rssLimit = 70
+ignorefiles = [ "geocaching/notes" ]
 [params]
     twitterName = "thunderrabbit"
     githubName = "thunderrabbit"
