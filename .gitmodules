@@ -13,9 +13,6 @@
 [submodule "content/toots/add-tutorial-to-hugo-site"]
 	path = content/toots/add-tutorial-to-hugo-site
 	url = git@github.com:thunderrabbit/add-tutorial-to-a-hugo-site.git
-[submodule "content/toots/use-letsencrypt-on-dreamhost"]
-	path = content/toots/use-letsencrypt-on-dreamhost
-	url = git@bitbucket.org:thunderrabbit/use-letsencrypt-on-dreamhost.git
 [submodule "content/reviews/burton-wheelie-bag"]
 	path = content/reviews/burton-wheelie-bag
 	url = git@github.com:thunderrabbit/my-ongoing-burton-wheelie-flyer-review.git
