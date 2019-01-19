@@ -16,9 +16,6 @@
 [submodule "content/reviews/burton-wheelie-bag"]
 	path = content/reviews/burton-wheelie-bag
 	url = git@github.com:thunderrabbit/my-ongoing-burton-wheelie-flyer-review.git
-[submodule "content/samples/javascript/days-old"]
-	path = content/samples/javascript/days-old
-	url = git@bitbucket.org:thunderrabbit/javascript-days-old-counter.git
 [submodule "content/toots/submit-to-ios-app-store"]
 	path = content/toots/submit-to-ios-app-store
 	url = git@github.com:thunderrabbit/submit-to-ios-app-store.git
