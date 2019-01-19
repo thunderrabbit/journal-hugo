@@ -1,6 +1,6 @@
 [submodule "content/journal"]
 	path = content/journal
-	url = git@bitbucket.org:thunderrabbit/robnugen-journal-entries.git
+	url = git@github.com:thunderrabbit/robnugen-journal-entries.git
 [submodule "content/samples/unity3d"]
 	path = content/samples/unity3d
 	url = git@github.com:thunderrabbit/unity3d-samples.git
@@ -24,7 +24,7 @@
 	url = git@bitbucket.org:thunderrabbit/javascript-days-old-counter.git
 [submodule "content/toots/submit-to-ios-app-store"]
 	path = content/toots/submit-to-ios-app-store
-	url = git@bitbucket.org:thunderrabbit/submit-to-ios-app-store.git
+	url = git@github.com:thunderrabbit/submit-to-ios-app-store.git
 [submodule "content/geocaching"]
 	path = content/geocaching
-	url = git@bitbucket.org:thunderrabbit/geocaching.git
+	url = git@github.com:thunderrabbit/geocaching.git
