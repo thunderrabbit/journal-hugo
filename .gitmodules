@@ -1,27 +1,27 @@
 [submodule "content/journal"]
 	path = content/journal
-	url = git@github.com:thunderrabbit/robnugen-journal-entries.git
+	url = https://github.com/thunderrabbit/robnugen-journal-entries.git
 [submodule "content/samples/unity3d"]
 	path = content/samples/unity3d
-	url = git@github.com:thunderrabbit/unity3d-samples.git
+	url = https://github.com/thunderrabbit/unity3d-samples.git
 [submodule "content/samples/javascript/pushups-counter-js"]
 	path = content/samples/javascript/pushups-counter-js
-	url = git@github.com:thunderrabbit/pushups-counter-js.git
+	url = https://github.com/thunderrabbit/pushups-counter-js.git
 [submodule "themes/purehugo-tr"]
 	path = themes/purehugo-tr
-	url = git@github.com:thunderrabbit/purehugo-tr.git
+	url = https://github.com/thunderrabbit/purehugo-tr.git
 [submodule "content/toots/add-tutorial-to-hugo-site"]
 	path = content/toots/add-tutorial-to-hugo-site
-	url = git@github.com:thunderrabbit/add-tutorial-to-a-hugo-site.git
+	url = https://github.com/thunderrabbit/add-tutorial-to-a-hugo-site.git
 [submodule "content/reviews/burton-wheelie-bag"]
 	path = content/reviews/burton-wheelie-bag
-	url = git@github.com:thunderrabbit/my-ongoing-burton-wheelie-flyer-review.git
+	url = https://github.com/thunderrabbit/my-ongoing-burton-wheelie-flyer-review.git
 [submodule "content/samples/javascript/days-old"]
 	path = content/samples/javascript/days-old
-	url = git@github.com:thunderrabbit/javascript-days-old.git
+	url = https://github.com/thunderrabbit/javascript-days-old.git
 [submodule "content/toots/submit-to-ios-app-store"]
 	path = content/toots/submit-to-ios-app-store
-	url = git@github.com:thunderrabbit/submit-to-ios-app-store.git
+	url = https://github.com/thunderrabbit/submit-to-ios-app-store.git
 [submodule "content/geocaching"]
 	path = content/geocaching
-	url = git@github.com:thunderrabbit/geocaching.git
+	url = https://github.com/thunderrabbit/geocaching.git
