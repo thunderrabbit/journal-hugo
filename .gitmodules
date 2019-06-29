@@ -1,9 +1,6 @@
 [submodule "content/journal"]
 	path = content/journal
 	url = git@github.com:thunderrabbit/robnugen-journal-entries.git
-[submodule "content/samples/unity3d"]
-	path = content/samples/unity3d
-	url = git@github.com:thunderrabbit/unity3d-samples.git
 [submodule "content/samples/javascript/pushups-counter-js"]
 	path = content/samples/javascript/pushups-counter-js
 	url = git@github.com:thunderrabbit/pushups-counter-js.git
