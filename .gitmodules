@@ -4,9 +4,6 @@
 [submodule "content/samples/javascript/pushups-counter-js"]
 	path = content/samples/javascript/pushups-counter-js
 	url = git@bitbucket.org:thunderrabbit/pushups-counter-js.git
-[submodule "themes/purehugo-tr"]
-	path = themes/purehugo-tr
-	url = git@github.com:thunderrabbit/purehugo-tr.git
 [submodule "content/toots/add-tutorial-to-hugo-site"]
 	path = content/toots/add-tutorial-to-hugo-site
 	url = git@github.com:thunderrabbit/add-tutorial-to-a-hugo-site.git
