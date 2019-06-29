@@ -25,3 +25,6 @@
 [submodule "content/geocaching"]
 	path = content/geocaching
 	url = git@github.com:thunderrabbit/geocaching.git
+[submodule "themes/polymer"]
+	path = themes/polymer
+	url = git@bitbucket.org:thunderrabbit/hugo-polymer.git
