@@ -5,12 +5,18 @@ theme = "polymer"
 MetaDataFormat = "yaml"
 rssLimit = 70
 ignorefiles = [ "geocaching/notes" ]
+disqusShortname = "thunderrabbit"
+copyright = "© 2019 Rob Nugen"
 [params]
-    twitterName = "thunderrabbit"
-    githubName = "thunderrabbit"
+	author = "Rob Nugen"
+    twitter = "thunderrabbit"
+    github = "thunderrabbit"
+    facebook = "thunderrabbit"
+    linkedin = "robnugen"
     description = "keep pushing the limits"
     hideShareOptions = true
 [permalinks]
     journal = "/journal/:year/:month/:day/:title/"
+    blog = "/blog/:year/:month/:day/:title/"
 cleandestinationdir= true
 disablerss= true
