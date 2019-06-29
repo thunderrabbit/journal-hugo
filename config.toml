@@ -1,7 +1,7 @@
 baseurl = "https://new.robnugen.com"
 languageCode = "en-us"
 title = "Thunder Rabbit"
-theme = "purehugo-tr"
+theme = "polymer"
 MetaDataFormat = "yaml"
 rssLimit = 70
 ignorefiles = [ "geocaching/notes" ]
