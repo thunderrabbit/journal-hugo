@@ -1,6 +1,6 @@
 baseurl = "https://new.robnugen.com"
 languageCode = "en-us"
-title = "Thunder Rabbit"
+title = "Rob Nugen"
 theme = "polymer"
 MetaDataFormat = "yaml"
 rssLimit = 70
