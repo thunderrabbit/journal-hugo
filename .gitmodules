@@ -6,16 +6,16 @@
 	url = git@bitbucket.org:thunderrabbit/pushups-counter-js.git
 [submodule "content/toots/add-tutorial-to-hugo-site"]
 	path = content/toots/add-tutorial-to-hugo-site
-	url = git@github.com:thunderrabbit/add-tutorial-to-a-hugo-site.git
+	url = git@bitbucket.org:thunderrabbit/add-tutorial-to-a-hugo-site.git
 [submodule "content/samples/javascript/days-old"]
 	path = content/samples/javascript/days-old
-	url = git@github.com:thunderrabbit/javascript-days-old.git
+	url = git@bitbucket.org:thunderrabbit/javascript-days-old.git
 [submodule "content/toots/submit-to-ios-app-store"]
 	path = content/toots/submit-to-ios-app-store
-	url = git@github.com:thunderrabbit/submit-to-ios-app-store.git
+	url = git@bitbucket.org:thunderrabbit/submit-to-ios-app-store.git
 [submodule "content/geocaching"]
 	path = content/geocaching
-	url = git@github.com:thunderrabbit/geocaching.git
+	url = git@bitbucket.org:thunderrabbit/geocaching.git
 [submodule "themes/polymer"]
 	path = themes/polymer
 	url = git@bitbucket.org:thunderrabbit/hugo-polymer.git
