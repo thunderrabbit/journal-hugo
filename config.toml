@@ -2,7 +2,7 @@ baseurl = "https://new.robnugen.com"
 
 languageCode = "en-us"
 title = "Rob Nugen"
-theme = "polymer"
+theme = "purehugo"
 MetaDataFormat = "yaml"
 rssLimit = 70
 ignorefiles = [ "geocaching/notes" ]
