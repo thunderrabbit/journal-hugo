@@ -2,6 +2,6 @@ RewriteEngine on
 RewriteCond %{HTTPS} !=on
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteCond %{REQUEST_URI} ^(/images)$
-RewriteRule ^(.*)$  http://b.robnugen.com/ [R=302,L]
+RewriteRule ^(.*)$  https://b.robnugen.com/ [R=302,L]
 RewriteCond %{REQUEST_URI} ^(/images)/(.*)$
-RewriteRule ^(.*)$  http://b.robnugen.com/%2 [R=302,L]
+RewriteRule ^(.*)$  https://b.robnugen.com/%2 [R=302,L]
