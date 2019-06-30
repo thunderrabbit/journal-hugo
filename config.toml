@@ -1,11 +1,12 @@
 baseurl = "https://new.robnugen.com"
+
 languageCode = "en-us"
 title = "Rob Nugen"
 theme = "polymer"
 MetaDataFormat = "yaml"
 rssLimit = 70
 ignorefiles = [ "geocaching/notes" ]
-disqusShortname = "thunderrabbit"
+disqusShortname = "keeppushingthelimits"
 copyright = "© 2019 Rob Nugen"
 [params]
 	author = "Rob Nugen"
