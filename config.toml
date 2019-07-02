@@ -6,7 +6,7 @@ theme = "purehugo"
 MetaDataFormat = "yaml"
 rssLimit = 70
 ignorefiles = [ "geocaching/notes" ]
-disqusShortname = "keeppushingthelimits"
+# disqusShortname = "keeppushingthelimits"
 copyright = "© 2019 Rob Nugen"
 [params]
 	author = "Rob Nugen"
@@ -14,7 +14,7 @@ copyright = "© 2019 Rob Nugen"
     github = "thunderrabbit"
     facebook = "thunderrabbit"
     linkedin = "robnugen"
-    description = "keep pushing the limits"
+    description = "keep expanding"
     hideShareOptions = true
 [permalinks]
     journal = "/journal/:year/:month/:day/:title/"
