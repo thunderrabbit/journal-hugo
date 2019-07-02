@@ -1,7 +1,7 @@
 ---
 title: "Insanity and exponential curves"
 tags: [ "insanity", "progress", "insight" ]
-category: [ "blog" ]
+categories: [ "insights" ]
 author: Rob Nugen
 date: 2019-07-02T09:27:05+09:00
 ---
