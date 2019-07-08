@@ -13,6 +13,8 @@ experienced my life.
 
 Have you seen the basketball video?  If not, have a look:
 
+{{< youtube IGQmdoK_ZfY >}}
+
 If I'm in a bad mood I tend to see things that are likewise bad.  If I'm
 in a good mood I tend to see things that are likewise good.
 
