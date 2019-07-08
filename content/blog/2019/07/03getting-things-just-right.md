@@ -1,7 +1,7 @@
 ---
 title: "Maintaining state in long projects"
 tags: [ "perfection", "projects", "productivity", "sanity" ]
-categories: [ "blog" ]
+categories: [ "programming" ]
 author: Rob Nugen
 date: 2019-07-03T18:42:57+09:00
 ---

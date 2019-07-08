@@ -1,7 +1,7 @@
 ---
 title: "Rubber ducking ftw"
 tags: [ "rubber ducking", "ask for help" ]
-categories: [ "blog" ]
+categories: [ "programming" ]
 author: Rob Nugen
 date: 2019-07-04T12:08:07+09:00
 ---
