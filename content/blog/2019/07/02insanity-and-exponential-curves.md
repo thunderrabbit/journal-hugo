@@ -6,8 +6,6 @@ author: Rob Nugen
 date: 2019-07-02T09:27:05+09:00
 ---
 
-##### 09:27 Tuesday 02 July 2019 JST
-
 We've all heard the quote something like
 
     Insanity is repeating the same thing

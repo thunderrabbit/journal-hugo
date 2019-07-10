@@ -6,8 +6,6 @@ author: Rob Nugen
 date: 2019-07-03T18:42:57+09:00
 ---
 
-##### 18:42 Wednesday 03 July 2019 JST
-
 As a programmer, I often want things to be just right, finding that
 balance between maintainability, extensibility, and plain ol'
 get-'er-done.  Today, banging my head against unexpected walls while

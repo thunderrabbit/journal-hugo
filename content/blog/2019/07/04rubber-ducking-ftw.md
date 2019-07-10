@@ -6,8 +6,6 @@ author: Rob Nugen
 date: 2019-07-04T12:08:07+09:00
 ---
 
-##### 12:08 Thursday 04 July 2019 JST
-
 Recently, I have had a big server upgrade that has been challenging me on
 how to finish it.  Yesterday I asked a friend of mine if he could
 look over my plan for the upgrade.

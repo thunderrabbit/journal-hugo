@@ -15,7 +15,7 @@ draft: true
 * I am responsible for my own happiness
 * I protect my inner child
 * I have an inner child
-* brand identity is Self
+* your brand identity is your Self including your story
 * relationship (Cathy G)
 * it's not about you
 * don't take things personally

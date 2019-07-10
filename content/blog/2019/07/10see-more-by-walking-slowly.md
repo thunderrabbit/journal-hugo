@@ -6,8 +6,6 @@ author: Rob Nugen
 date: 2019-07-10T11:50:50+09:00
 ---
 
-##### 11:50 Wednesday 10 July 2019 JST
-
 When out and about, I like to allow plenty of time between clients so
 I can be relaxed while in transit.  Today I took it a step (ha)
 further by walking quite slowly.

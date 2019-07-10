@@ -9,8 +9,6 @@ author: Rob Nugen
 date: 2019-06-18T21:22:49.000+00:00
 ---
 
-##### 06:22 Wednesday 19 June 2019 JST
-
 Sticking with the basics, we have joy and fear.
 
 ## Joy
