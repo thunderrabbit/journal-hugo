@@ -19,7 +19,7 @@ After determining what I wanted the final outcome to be, the workshop
 plan went through a few iterations, with support from [Georgie](https://www.facebook.com/babay0ga/), Mark Wild,
 [Soness](https://www.yourspeakingjourney.com/), [Kevin Turner](https://www.shamanism-asia.com/), and others.
 
-[Georgie has been doing eye gazing workshops for years in Australia.]()
+[Georgie has been doing eye gazing workshops for years in Australia.](https://concreteplayground.com/sydney/event/eye-gazing-2)
 
     They say our eyes are the window to the soul.  This workshop will give
     us a chance to look more deeply into ourselves and more deeply into
@@ -45,7 +45,5 @@ plan went through a few iterations, with support from [Georgie](https://www.face
     
 Location: between Shibuya and Shinsen stations on Dogenzaka
 
-
-https://concreteplayground.com/sydney/event/eye-gazing-2
 
 
