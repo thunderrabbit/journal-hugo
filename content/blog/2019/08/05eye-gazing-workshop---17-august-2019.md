@@ -24,26 +24,25 @@ plan went through a few iterations, with support from [Georgie](https://www.face
     They say our eyes are the window to the soul.  This workshop will give
     us a chance to look more deeply into ourselves and more deeply into
     those around us.
-    
+
     The process is simple, and the results can be profound.  You may
     discover parts about yourself that you didn't know where there.
-    
+
     In this workshop, we will be looking into the eyes of people that we
     may never have met before.  We will have a chance to sit with multiple
     participants, with a small break in between each person.
-    
+
     It's important to have an intention before each eye gazing practice,
     so be sure to have some possible intentions in mind.  Some examples
     might be
-    
+
     “I intend to get to know myself better”
     “I intend to connect with my intuition”
     “I intend to practice acceptance of others”
     “I intend to practice acceptance of myself”
-    
+
     Let’s enjoy learning about ourselves and each other.
-    
+
 Location: between Shibuya and Shinsen stations on Dogenzaka
 
-
-
+Email me at rob **α𝐭** robnugen.com to RSVP and get the address.
