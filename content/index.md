@@ -1,6 +1,6 @@
 ---
-title: About
-date: 2019-08-07T22:30:55+09:00
+title: Keep Expanding - Rob Nugen.com
+date: 2019-09-12
 ---
 
 Rob Nugen facilitates [peer counseling circles in Tokyo](https://www.mkpjapan.org/) using processes from [Mankind Project](https://www.mkp.org/).
