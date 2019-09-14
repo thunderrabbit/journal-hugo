@@ -9,8 +9,8 @@ date: 2019-09-07T17:26:33+09:00
 [![Past Lives Glasgow,KY Michael Vines Flickr files](//b.robnugen.com/blog/2019/thumbs/Past_Lives_Glasgow,KY_Michael_Vines_Flickr_files.jpg)](//b.robnugen.com/blog/2019/Past_Lives_Glasgow,KY_Michael_Vines_Flickr_files.jpg)
 
 I put a question mark on the title because I cannot really prove the
-visions are related to past lives, but this is a fun way to lead
-people through a process to see their past lives.
+visions are related to past lives, but this is a fun way to guide
+people through a process to see what could be their past lives.
 
     Each participant gets into a relaxed position, usually either
     sitting in a chair, or laying down, or otherwise sitting against

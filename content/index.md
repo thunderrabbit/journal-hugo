@@ -1,6 +1,6 @@
 ---
 title: Keep Expanding
-date: 2019-09-12
+date: 2019-09-09T09:09:09+0900
 ---
 
 [Rob Nugen](https://www.facebook.com/barefootrob/) leads [workshops in English in Tokyo](https://www.facebook.com/barefootrob/events), ranging from [Eye Gazing](https://www.facebook.com/events/493730671447073/) to Past Life Regressions to Walking Barefoot.
@@ -9,6 +9,5 @@ Rob also facilitates [peer counseling circles in Tokyo](https://www.mkpjapan.org
 
 
 For questions or to book a session, email Rob at rob **α𝐭** robnugen.com
-
 
 Static site produced by [Hugo](http://gohugo.io/) from [source on Bitbucket](https://bitbucket.org/thunderrabbit/journal-hugo/)
